@@ -1,6 +1,9 @@
 # To-do list
 A simple mini JS project, it can be served as base for the bigger project
 
+## You can clone or fork the project
+
+
 ## Features and functionalities you can add on
 * Add a button to clear all tasks from the list
 * Allow users to set priority levels for tasks (e.g., high, medium, low -colour coding)
